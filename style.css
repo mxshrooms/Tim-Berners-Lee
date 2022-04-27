@@ -1,0 +1,26 @@
+#tim {
+    width:200px;
+    margin-top:60px;
+}
+#welcome {
+ background-image: url("https://s.yimg.com/uu/api/res/1.2/jhsS0MZ664YvUtdHz7ZpyQ--~B/aD0xMDY2O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https://s.yimg.com/os/creatr-uploaded-images/2019-03/56bd9e90-44ce-11e9-bbbe-1d98952883f4&client=a1acac3e1b3290917d92&signature=301f15935202df2777af86c3aa55ff6dfe2a8641");
+ background-size:cover;
+ background-repeat: no-repeat;
+ height:75%;
+}
+body {
+    text-align:center;
+}
+#h1{
+    color:antiquewhite;
+    background-color:dodgerblue;
+    margin-left:550px;
+    width:19%;
+    font-size:30px;
+}
+#h3{
+    color: antiquewhite;
+    background-color:dodgerblue;
+    width:25%;
+    margin-left:515px;
+}
